@@ -9,3 +9,6 @@ This file redirect user back to home directory
 
 ###{3-listfiles}(3-listfiles)
 This file displays the content of current directory in a long format
+
+###{4-listmorefiles}(4-listmorefiles)
+Display current directory contents including hidden files (starting with ...), Use the long format)
