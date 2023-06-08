@@ -28,4 +28,7 @@ Delete file betty from /tmp/my_first_directory
 ###[9-firstdirdeletion](9-firstdirdeletion)
 Delete my_first_directory from /tmp
 
+###[10-back](10-back)
+Change working directory to the previious one
+
 
