@@ -19,3 +19,6 @@ Display current directory contents 1. Long format 2. with user and group IDs dis
 ###[6-firstdirectory](6-firstdirectory)
 Crea a directory 'my0_first_directory' inside of /tmp
 
+### [7-movethatfile](7-movethatfile)
+Move the file betty from tmp to tmp/my_first_directory
+
