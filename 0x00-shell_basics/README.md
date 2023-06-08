@@ -25,4 +25,7 @@ Move the file betty from tmp to tmp/my_first_directory
 ### [8-firstdelete](8-firstdelete)
 Delete file betty from /tmp/my_first_directory
 
+###[9-firstdirdeletion](9-firstdirdeletion)
+Delete my_first_directory from /tmp
+
 
