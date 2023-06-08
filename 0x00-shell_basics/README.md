@@ -22,3 +22,7 @@ Crea a directory 'my0_first_directory' inside of /tmp
 ### [7-movethatfile](7-movethatfile)
 Move the file betty from tmp to tmp/my_first_directory
 
+### [8-firstdelete](8-firstdelete)
+Delete file betty from /tmp/my_first_directory
+
+
