@@ -4,11 +4,14 @@ This create an executabel file 0-current_working_directory that execute the curr
 ###[1-listit](1-listit)
 This file list all content in a current directory
 
-####{2-bring_me_home}(2-bring_me_home)
+####[2-bring_me_home](2-bring_me_home)
 This file redirect user back to home directory
 
-###{3-listfiles}(3-listfiles)
+###[3-listfiles](3-listfiles)
 This file displays the content of current directory in a long format
 
-###{4-listmorefiles}(4-listmorefiles)
+###[4-listmorefiles](4-listmorefiles)
 Display current directory contents including hidden files (starting with ...), Use the long format)
+
+##[5-listfilesdigitonly](5-listfilesdigitonly)
+Display current directory contents 1. Long format 2. with user and group IDs displayed numerically 3. and hidden files (starting with .)
