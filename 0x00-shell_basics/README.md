@@ -15,3 +15,7 @@ Display current directory contents including hidden files (starting with ...), U
 
 ##[5-listfilesdigitonly](5-listfilesdigitonly)
 Display current directory contents 1. Long format 2. with user and group IDs displayed numerically 3. and hidden files (starting with .)
+
+###[6-firstdirectory](6-firstdirectory)
+Crea a directory 'my0_first_directory' inside of /tmp
+
